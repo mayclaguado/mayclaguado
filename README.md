@@ -1,6 +1,7 @@
 Hola, soy Mayra Carreño✨
 Estoy interesada en la programación y la electrónica
-Actualemnte soy estudiante de ingeniería
+Actualemnte soy estudiante de ingeniería en la
+Universidad del Norte
 <3
 
 <!---
